@@ -1,5 +1,7 @@
 # Grammar Corrector Chatbot
 
+![Chatbot Workflow](./chatbot-workflow.png)
+
 This project is a full-stack grammar correction chatbot that uses a FastAPI backend and a Next.js frontend. The backend leverages the Ollama API with a language model to correct grammar, punctuation, and clarity in user-submitted text, and provides explanations for the corrections.
 
 ## Project Structure
